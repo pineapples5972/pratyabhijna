@@ -1,5 +1,5 @@
 ---
-title: Pratyabhigya
+title: Welcome
 ---
 
 # First heading
