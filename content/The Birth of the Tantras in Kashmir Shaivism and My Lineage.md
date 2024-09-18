@@ -12,13 +12,6 @@ tags:
 ### The Beginning:
 In the beginning of Satyuga Lord Śiva appeared in the form of **Svacchandanātha**. As **Svacchandanātha**, He appeared with five heads and eighteen arms. His five heads came into manifestation through his five great energies: **cit śakti, all consciousness; ānanda śakti, all bliss; icchā śakti, all will; jñāna śakti, all knowledge; and kriyā śakti, all action.** And these five energies, which appeared in His five mouths and which are known as **īśāna, tatpuruṣa, aghora, vāmadeva and sadyojāta, because of the grace (anugrahaḥ) of Lord Śiva**, experienced the sensation of illuminating the Universe.
 
-| 5 Heads   | 5 śakti      | 5 energies        |
-| --------- | ------------ | ----------------- |
-| īśāna     | cit śakti    | all consciousness |
-| tatpuruṣa | ānanda śakti | all bliss         |
-| aghora    | icchā śakti  | all will          |
-| vāmadeva  | jñāna śakti  | all knowledge     |
-| sadyojāta | kriyā śakti  | all action        |
 
 ![[Pasted image 20240918125958.png]]
 ### Svacchandanātha
