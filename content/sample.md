@@ -1,5 +1,6 @@
 ---
-title: test
+title: Sample file
+date: 2024-09-18
 ---
 
 # First heading
