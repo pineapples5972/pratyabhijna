@@ -39,3 +39,6 @@ We are deeply devoted to Trika philosophical insights with common interests ofte
 - [[Krama]] System
 - [[Spanda]] System
 - and more
+
+### Recent Articles:
+[[The Birth of the Tantras in Kashmir Shaivism and My Lineage]]
