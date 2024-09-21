@@ -12,6 +12,7 @@ export const sharedPageComponents: SharedLayout = {
       "Discord Community":"https://discord.gg/w7kphtmXhZ",
       "Telegram Community": "https://telegram.me/easterntantriks",
       "Youtube": "https://www.youtube.com/@karpurgauram",
+      "RSS Feed": "https://pratyabhijna.exozy.me/index.xml",
     },
   }),
 }
@@ -34,6 +35,12 @@ export const defaultContentPageLayout: PageLayout = {
   right: [
     Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
+    Component.RecentNotes({
+	    title: "Recent writings",
+	    showTags: false,
+	    limit: 5,
+    }),
+
     Component.Backlinks(),
   ],
 }
