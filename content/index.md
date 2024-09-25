@@ -2,6 +2,8 @@
 title: •~• Welcome Note •~•
 ---
 
+<div class="class-header">
+
 <img src="/images/omshivabanner.jpg">
 
 # karpurgauram
@@ -9,6 +11,8 @@ title: •~• Welcome Note •~•
 A secret layer of Non-dual Trīka Śaivadharma, heavily rooted and influenced by Non-dual Bhairava Āgama-s, Aesthetics and the Pratyabhijñā, Spanda, Krama and Kula together known as Trika philosophy of Gurudeva Mahāmaheśvara Abhinavagupta.
 
 || <a href=".">[home]</a> | [[glossary]]  | [[dictionary]] | [[about us]] ||
+
+</div>
 
 We embrace all genres of dark and light introspective Tāntrik insights and wisdom.
 

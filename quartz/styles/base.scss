@@ -19,6 +19,16 @@ section {
   color: var(--darkgray);
 }
 
+.class-header {
+    flex-flow: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin: 3em 0;
+    display: flex;
+ }
+
+
 .text-highlight {
   background-color: var(--textHighlight);
   padding: 0 0.1rem;
