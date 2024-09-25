@@ -2,11 +2,13 @@
 title: •~• Welcome Note •~•
 ---
 
-<img src="/images/omshiva.jpg" width="330">
+<img src="/images/omshivabanner.jpg">
 
 # karpurgauram
 
 A secret layer of Non-dual Trīka Śaivadharma, heavily rooted and influenced by Non-dual Bhairava Āgama-s, Aesthetics and the Pratyabhijñā, Spanda, Krama and Kula together known as Trika philosophy of Gurudeva Mahāmaheśvara Abhinavagupta.
+
+|| <a href=".">[home]</a> | [[glossary]]  | [[dictionary]] | [[about us]] ||
 
 We embrace all genres of dark and light introspective Tāntrik insights and wisdom.
 
@@ -40,5 +42,6 @@ We are deeply devoted to Trika philosophical insights with common interests ofte
 - [[Spanda]] System
 - and more
 
-### Recent Articles:
-[[The Birth of the Tantras in Kashmir Shaivism and My Lineage]]
+ ### Latest Articles
+ - [[The Birth of the Tantras in Trika]]
+ - [[External Discipline]]
