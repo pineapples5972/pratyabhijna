@@ -14,11 +14,13 @@ tags:
 —Swami Lakshamanjoo—
 ∫Sunday, April 27, 1980∫
 
-**E**very human being must strive for self-realization. When the individual self has right knowledge of the universal Self and recognizes its Divinity without the least apprehension, it is known as Union or Yoga. Patanjali has explained eight limbs of Yoga in his Yoga-Sutras. However The Kashmir Śaiva philosophy also recognizes the Yoga-Sutras and we have our own independent system for limbs of Yoga, where it is stressed that the first two parts, i.e. Yamas and Niyamas must have already been practised. In Kashmir Śaivism the eight limbs of Yoga begin from Asanas—the right posture. By practising the first two one prepares oneself for the spiritual path. This is the development of etiquette. This is the external behavior. Unless one develops the external behavior how can one delve deeper into subtleties! 
+Every human being must strive for self-realization. When the individual self has right knowledge of the universal Self and recognizes its Divinity without the least apprehension, it is known as Union or Yoga. Patanjali has explained eight limbs of Yoga in his Yoga-Sutras. However The Kashmir Śaiva philosophy also recognizes the Yoga-Sutras and we have our own independent system for limbs of Yoga, where it is stressed that the first two parts, i.e. Yamas and Niyamas must have already been practised. In Kashmir Śaivism the eight limbs of Yoga begin from Asanas—the right posture. By practising the first two one prepares oneself for the spiritual path. This is the development of etiquette. This is the external behavior. Unless one develops the external behavior how can one delve deeper into subtleties! 
 
 ==नित्योदिता पराशक्तिर्यद्यप्येषा तथापि च।==
 ==बाह्यचर्याविहीनस्य दुर्लभा कौलिकी स्थितिः॥==
+
 — Quoted by Jayarathа on Tantraloka 12.16.
+
 Meaning:
 `The power of supreme consciousness is always present in awareness, always pure and untainted. But for a person who lacks in external behaviour, it is impossible to get established in this unalloyed bliss.` 
 
@@ -26,7 +28,9 @@ Therefore, unless the aspirant has become well prepared in the external behaviou
 
 ==तथा हि शंका मालिन्यं ग्लानिः संकोच इत्यदः॥== 
 ==संसारकारागारान्तः स्थूलस्थूणाघटायते।==
+
 — Tantraloka 12.20-21.
+
 Meaning:
 `Ignorance is the subtlest impurity which gives rise to doubt. This loosens the spirit of courage to advance towards purity of mind and renders lethargic. Automatically one gets bound to limitation of body etc. This causes degradation. Thus the human being gets strongly tethered like tame animal with the rope of ignorance in the prison of this world.`
 
@@ -35,7 +39,9 @@ Therefore, it is necessary that one must first execute one's efforts towards the
 Otherwise, the one upon whom the Master becomes angry is left out:—
 
 ==गुरुर्हि कुपितो यस्य स तिरोहित उच्यते।==
+
 —Tantraloka 23.63.
+
 `The favour of doing good is denied to him.` 
 ![[Pasted image 20240925183134.png]]
 #### It is, therefore, stressed that the five Yamas (internal disciplines) should be followed first:—
@@ -63,7 +69,11 @@ Otherwise, the one upon whom the Master becomes angry is left out:—
 `∆ Surrender to Self (Īśvarapraṇidhānaṁ) ∆ —` ==Always resign yourself to the will of Self. That will ward off all obstacles and grant success in concentration.==
 
 In summing up, I have to say again that unless you are friendly among yourselves, unless you cultivate the habit of being truthful, unless you give up looking to the faults of others, unless you eradicate greed and unless you cast your life according to the injunctions of the Sacred Ordinance, mere studying and learning lessons will avail nothing. Your thoughts must be pure and pious, you must be able to avoid greed with full confidence and faith in your own actions—Both past and present, you must increase your power of tolerance and endurance and you must witness your own deeds resigning everything to the will of Self. Then life will be beautiful and you will be blessed.
+
 ∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞∞
+
 $Source:$
+
 *— The Awareness Of The Supreme Consciousness;*
+
 *— Revealed by Īśvarasvarupa Swāmī Lakṣamaṇajū.*
