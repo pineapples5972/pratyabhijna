@@ -1,5 +1,5 @@
 ---
-title: The Birth of the Tantras in Kashmir Shaivism and My Lineage
+title: The Birth of the Tantras in Trika
 date: 2024-09-25
 tags:
   - history
