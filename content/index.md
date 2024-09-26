@@ -4,7 +4,7 @@ title: Ｎａｇｋｕｍａｒ です
 
 <div class="class-header">
 
-<img src="/images/banner.jpg">
+<!--img src="/images/banner.jpg"-->
 
 `•~• Welcome Note •~•`
 
