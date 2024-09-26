@@ -37,8 +37,11 @@ body:before {
     gap: 10px;
     margin: 3em 0;
     display: flex;
- }
+}
 
+ [saved-theme="dark"] body[data-slug="index"] img[url="https://4kwallpapers.com/images/wallpapers/shiva-linga-lord-2048x2048-9509.jpg"] {
+  filter: invert(100%);
+}
 
 .text-highlight {
   background-color: var(--textHighlight);
