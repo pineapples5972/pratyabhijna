@@ -6,7 +6,7 @@ title: Ｎａｇｋｕｍａｒ です
 
 <img src="/images/omshivabanner.jpg">
 
-# •~• Welcome Note •~•
+`•~• Welcome Note •~•`
 
 A secret layer of Non-dual Trīka Śaivadharma, heavily rooted and influenced by Non-dual Bhairava Āgama-s, Aesthetics and the Pratyabhijñā, Spanda, Krama and Kula together known as Trika philosophy of Gurudeva Mahāmaheśvara Abhinavagupta.
 
