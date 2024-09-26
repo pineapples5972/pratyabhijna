@@ -24,9 +24,10 @@ body:before {
     pointer-events: none;
     filter: invert(0%);
     content: url(images/hrim.png);
-    opacity: .67;
+    opacity: 0.30;
     position: fixed;
-    top: -300px;
+    top: -30%;
+    left: -21%;
 }
 
 .class-header {
