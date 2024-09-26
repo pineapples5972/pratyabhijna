@@ -8,10 +8,10 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/pineapples5972/pratyabhijna",
-      "Discord":"https://discord.gg/w7kphtmXhZ",
-      "Telegram": "https://telegram.me/easterntantriks",
       "YouTube": "https://www.youtube.com/@karpurgauram",
+      "Telegram": "https://telegram.me/easterntantriks",
+      "Discord":"https://discord.gg/w7kphtmXhZ",
+      GitHub: "https://github.com/pineapples5972/pratyabhijna",
       "RSS Feed": "https://pratyabhijna.exozy.me/index.xml",
     },
   }),
