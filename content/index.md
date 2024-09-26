@@ -1,12 +1,12 @@
 ---
-title: •~• Welcome Note •~•
+title: Ｎａｇｋｕｍａｒ です
 ---
 
 <div class="class-header">
 
 <img src="/images/omshivabanner.jpg">
 
-# karpurgauram
+# •~• Welcome Note •~•
 
 A secret layer of Non-dual Trīka Śaivadharma, heavily rooted and influenced by Non-dual Bhairava Āgama-s, Aesthetics and the Pratyabhijñā, Spanda, Krama and Kula together known as Trika philosophy of Gurudeva Mahāmaheśvara Abhinavagupta.
 
@@ -44,7 +44,7 @@ We are deeply devoted to Trika philosophical insights with common interests ofte
 - [[Kula]] System
 - [[Krama]] System
 - [[Spanda]] System
-- and more
+- [[Practices]]
 
  ### Latest Articles
  - [[The Birth of the Tantras in Trika]]
