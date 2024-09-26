@@ -21,6 +21,8 @@ section {
 }
 
 body:before {
+    pointer-events: none;
+    filter: invert(0%);
     content: url(images/bg.jpg);
     opacity: .67;
     position: fixed;
