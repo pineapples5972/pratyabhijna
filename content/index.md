@@ -1,17 +1,12 @@
 ---
 title: Ｎａｇｋｕｍａｒ です
 ---
-
 <div class="class-header">
-
-<!--img src="/images/banner.jpg"-->
-
+|| <a href="."> <button class="fancybutton" type="button" >[home]</button></a> | <a href="/glossary"><button class="fancybutton" type="button">[glossary]</button></a>  |  <a href="/dictionary"> <button class="fancybutton" type="button">[dictionary]</button></a> | <a href="/about us"><button class="fancybutton" type="button"> [about us]</button></a> ||
+</div>
 `•~• Welcome Note •~•`
 
 A secret layer of Non-dual Trīka Śaivadharma, heavily rooted and influenced by Non-dual Bhairava Āgama-s, Aesthetics and the Pratyabhijñā, Spanda, Krama and Kula together known as Trika philosophy of Gurudeva Mahāmaheśvara Abhinavagupta.
-
-|| <a href="."> <button class="fancybutton" type="button" >[home]</button></a> | <a href="/glossary"><button class="fancybutton" type="button">[glossary]</button></a>  |  <a href="/dictionary"> <button class="fancybutton" type="button">[dictionary]</button></a> | <a href="/about us"><button class="fancybutton" type="button"> [about us]</button></a> ||
-</div>
 
 We embrace all genres of dark and light introspective Tāntrik insights and wisdom.
 
@@ -36,14 +31,6 @@ We are deeply devoted to Trika philosophical insights with common interests ofte
 - Metaphysics;
 - Esoteric Planes of Existence;
 - and Mystikism.
-
-### feel free to explore
-
-- [[Pratyabhijñā]] System
-- [[Kula]] System
-- [[Krama]] System
-- [[Spanda]] System
-- [[Practices]]
 
  ### Latest Articles
  - [[The Birth of the Tantras in Trika]]
