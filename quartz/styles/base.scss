@@ -9,6 +9,7 @@ html {
   width: 100vw;
 }
 
+
 body,
 section {
   margin: 0;
@@ -17,6 +18,16 @@ section {
   background-color: var(--light);
   font-family: var(--bodyFont);
   color: var(--darkgray);
+}
+
+body:before {
+    filter: invert(0%);
+    content: url(https://4kwallpapers.com/images/wallpapers/shiva-linga-lord-2048x2048-9509.jpg);
+    opacity: 0.2;
+    position: fixed;
+    transform: scale(.77);
+    top: -400px;
+    left: -300px;
 }
 
 .class-header {
