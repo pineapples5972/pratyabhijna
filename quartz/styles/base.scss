@@ -20,14 +20,11 @@ section {
   color: var(--darkgray);
 }
 
-body:before {
-    pointer-events: none;
-    filter: invert(0%);
-    content: url(images/hrim.png);
-    opacity: 0.30;
-    position: fixed;
-    top: -30%;
-    left: -21%;
+body {
+    background: url(images/hrim.png) no-repeat fixed;
+    background-size: cover;
+    background-position-y: center;
+    background-attachment: fixed;
 }
 
 .class-header {

@@ -2,7 +2,8 @@
 title: Ｎａｇｋｕｍａｒ です
 ---
 <div class="class-header">
-|| <a href="."> <button class="fancybutton" type="button" >[home]</button></a> | <a href="/glossary"><button class="fancybutton" type="button">[glossary]</button></a>  |  <a href="/dictionary"> <button class="fancybutton" type="button">[dictionary]</button></a> | <a href="/about us"><button class="fancybutton" type="button"> [about us]</button></a> ||
+<a href="."> <button class="fancybutton" type="button" >[home]</button></a> <a href="/glossary"><button class="fancybutton" type="button">[glossary]</button></a> <a href="/dictionary"> <button class="fancybutton" type="button">[dictionary]</button></a> <a href="/about us"><button class="fancybutton" type="button"> [about us]</button></a>
+
  `•~• Welcome Note •~•`
 </div>
 
