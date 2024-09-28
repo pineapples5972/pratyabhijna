@@ -1,8 +1,8 @@
 ---
 title: spanda
 tags:
+ - spanda
  - articles
- - Spanda
  - Introduction
 ---
 ]■[ "Spanda System." ]■[
