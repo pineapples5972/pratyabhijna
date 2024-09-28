@@ -9,6 +9,7 @@ tags:
   - kashmirshaivism
   - introduction
   - trika
+  - articles
 ---
 
 ![[0c45c8db5e700b4dd03d9.jpg]] Bhairava and Bhairavi (At the down of Satyayuga)
@@ -32,10 +33,10 @@ These Tantras are manifested in three ways. Initially, ten Tantras came into exi
 ![[Pasted image 20240918130348.png]]
 Parābhairava & Bhairavi (The Beginning of Satyayug)
 
-**In the Bhairava Tantras, Lord Śiva is shown to be in predominance everywhere. He is there in fullness in Śiva and in all of His energies. He is equally present in everything and everywhere. You cannot say that something is closer to Him and something else is farther away. In everything He is there, fully and completely.**  
+**In the Bhairava Tantras, Lord Śiva is shown to be in predominance everywhere. He is there in fullness in Śiva and in all of His energies. He is equally present in everything and everywhere. You cannot say that something is closer to Him and something else is farther away. In everything He is there, fully and completely.**
 
 ### Vākćtuṣtaya-s (States of Speech) & The Transmission of Āgama-s:
-Initially, this monistic Tantra, in the form of one Supreme Consciousness and Bliss, was not manifested in will, imagination, or words; rather, it was felt and observed by Lord Śiva Himself at the start of the illuminating energy. At this point, the manifestation of this Tantra resided in Lord Śiva’s innermost speech, known as **Parāvāk** (supreme speech). In this supreme speech of Lord Śiva, the creation of **vācya** and **vācaka**, **master** and **disciple**, was not yet felt as **being differentiated**. They resided in His **own Being** as **undifferentiated**. In the next movement of illuminating energy, the manifestation of the Tantras was held in his second speech, **paśyantī**. At this stage also, these Tantras were still **undifferentiated** and were one with His Supreme **Will**. In the next movement of illuminating energy, these Tantras were held in His third speech, **madhyamā vāk.** Here, they became differentiated and were manifested internally only in thought not in words. And in the final movement of illuminating energy, these Tantras were held in His fourth speech, **vaikharī vāk**, where they came out through His five mouths in differentiation as words, sentences, and verses.  
+Initially, this monistic Tantra, in the form of one Supreme Consciousness and Bliss, was not manifested in will, imagination, or words; rather, it was felt and observed by Lord Śiva Himself at the start of the illuminating energy. At this point, the manifestation of this Tantra resided in Lord Śiva’s innermost speech, known as **Parāvāk** (supreme speech). In this supreme speech of Lord Śiva, the creation of **vācya** and **vācaka**, **master** and **disciple**, was not yet felt as **being differentiated**. They resided in His **own Being** as **undifferentiated**. In the next movement of illuminating energy, the manifestation of the Tantras was held in his second speech, **paśyantī**. At this stage also, these Tantras were still **undifferentiated** and were one with His Supreme **Will**. In the next movement of illuminating energy, these Tantras were held in His third speech, **madhyamā vāk.** Here, they became differentiated and were manifested internally only in thought not in words. And in the final movement of illuminating energy, these Tantras were held in His fourth speech, **vaikharī vāk**, where they came out through His five mouths in differentiation as words, sentences, and verses.
 
 ### The Revival of Trika in Kalyug:
 In the three yugas (ages), satyuga, tretāyuga, and dvāparayuga, masters and disciples were initiated verbally, not in writing, requiring words and sentences. The power of memory in them was so great that they remembered everything instantaneously. There was no need for them to write anything down or to refer to books and papers. The masters and disciples were very great during these three yugas.
@@ -47,11 +48,11 @@ When kaliyuga occurred, these masters and disciples were so disappointed that th
 ### The First Parameṣthī Guru of Trikaśāsana - Durvāsā Ṛṣi:
 **Durvāsā Ṛṣi**, after meditating completely to acquire a real and fit disciple for initiation, became disappointed. He could not find anyone in this world fit to be initiated. His initiation was a practical initiation because, while initiating someone in the thought of Bhairava Tantras, he simultaneously initiated him in the practical side of this thought. And this practical initiation manifested itself immediately without the disciples having to do any practice or yoga. This disciple would become instantaneously enlightened. As he could not find a disciple fit for this initiation, he created out of his mental power one mind-born son. This mind-born son was called **Tryambakanātha**. Durvāsā Ṛṣi completely initiated **Tryambakanātha** in the way of the monistic Bhairava Tantras. Afterwards, he created two more mind-born sons, **Āmardakanātha** and **Śrīnātha**. He initiated his son Āmardakanātha in the dualistic Śiva Tantras and he initiated his other son Śrinātha in the monodualistic Rudra Tantras. All of this was done by Durvāsā Ṛṣi for the upliftment of mankind.
 
-![[Durvasa’s_wrath_against_Shakuntala.jpg]]A painting depicting Durvasa 
+![[Durvasa’s_wrath_against_Shakuntala.jpg]]A painting depicting Durvasa
 
 For the upliftment of women, Durvāsā Ṛṣi created one mind-born daughter and she was called **Ardhatryambakā**. As Kashmir Śaivism does not recognize women to be in a state of degradation, Durvāsā Ṛṣi initiated her completely in the monistic thought of Bhairava Tantras. As this view, that women are not in a state of degradation, is not held by the other two schools of Śaivism, the dualistic and monodualistic schools, Durvāsā Ṛṣi created only one-mind born daughter. His daughter Ardhatryambakā’s teaching is known as the **Ardhatryambaka school of the Bhairava Tantras.** But as the continuity of the Ardhatryambaka school manifested itself from one woman to another secretly, there is no history of this school in this kaliyuga.
 
-### The Unbroken Lineage of Trika: 
+### The Unbroken Lineage of Trika:
 Durvāsā Ṛṣi’s son Tryambakanātha, the founder of the monistic school of Śaivism, was also a celibate (brahmacārī). According to the way of the sage Durvāsā Ṛṣi, he also created one mind-born son and named him **Tryambakāditya**, which means **“the** expansion of Tryambakanātha.” After initiating him completely in Bhairava Tantras, Tryambakanātha entered a cave, which is known as Tryambaka Guhā (cave), and disappeared. Tryambakanātha’s son Tryambakāditya also created one mind-born son and, after initiating him, Tryambakāditya disappeared into the ether.
 ![[72caa2e963a93518196d2.jpg]]Pancamukhī Śiva Pārvatī & Nandi alongside Ṛṣabha bull (Art: Unknown)
 

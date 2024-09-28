@@ -4,7 +4,7 @@ cssclasses: no-m
 ---
 
 <div class="center-header">
-<a href="."> <button class="btn-14" type="button" >[home]</button></a> <a href="/glossary"><button class="btn-14" type="button">[glossary]</button></a> <a href="/dictionary"> <button class="btn-14" type="button">[dictionary]</button></a> <a href="/about us"><button class="btn-14" type="button"> [about us]</button></a>
+<a href="."> <button class="btn-14" type="button" >[home]</button></a> <a href="tags/articles"><button class="btn-14" type="button">[articles]</button></a> <a href="/glossary"><button class="btn-14" type="button">[glossary]</button></a> <a href="/dictionary"> <button class="btn-14" type="button">[dictionary]</button></a> <a href="/about us"><button class="btn-14" type="button"> [about us]</button></a>
 
 </div>
 
