@@ -1,7 +1,9 @@
 ---
-title: Krama
+title: krama
 tags:
+   - "#krama"
    - "#articles"
+   - "#introduction"
 ---
 ## ]■[ "Krama System." ]■[
 
