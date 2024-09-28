@@ -1,5 +1,5 @@
 ---
-title: — ஃ “Purity Of Mind & Internal Posture.” ஃ
+title: Purity Of Mind & Internal Posture.
 date: 2024-09-28
 tags:
   - discipline
