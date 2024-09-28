@@ -34,14 +34,14 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph(),
+    Component.MobileOnly(Component.Explorer()),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.RecentNotes({
 	    title: "Recent Articles",
 	    showTags: false,
 	    limit: 5,
     }),
-
-    Component.Backlinks(),
+//    Component.Backlinks(),
   ],
 }
 
