@@ -1,5 +1,5 @@
 ---
-title: Kula
+title: kula
 tags:
   - kula
   - introduction
