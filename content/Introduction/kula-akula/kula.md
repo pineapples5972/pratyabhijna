@@ -1,5 +1,5 @@
 ---
-title: Kula System
+title: Kula
 tags:
   - kula
   - introduction

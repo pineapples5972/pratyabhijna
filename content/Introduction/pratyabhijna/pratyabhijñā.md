@@ -1,5 +1,5 @@
 ---
-title: Pratyabhijna System
+title: Pratyabhijna
 tags:
   - pratyabhijna
   - introduction

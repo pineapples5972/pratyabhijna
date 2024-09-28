@@ -1,5 +1,5 @@
 ---
-title: Krama System
+title: Krama
 tags:
    - "#articles"
 ---

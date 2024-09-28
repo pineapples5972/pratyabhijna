@@ -1,5 +1,5 @@
 ---
-title: Spanda System
+title: Spanda
 tags:
  - articles
  - Spanda
