@@ -1,5 +1,6 @@
 ---
 title: pratyabhijna
+date: 2024-09-26
 tags:
   - pratyabhijna
   - introduction

@@ -1,5 +1,6 @@
 ---
 title: spanda
+date: 2024-09-26
 tags:
  - spanda
  - introduction
