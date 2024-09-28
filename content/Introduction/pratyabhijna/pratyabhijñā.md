@@ -1,5 +1,5 @@
 ---
-title: Pratyabhijna
+title: pratyabhijna
 tags:
   - pratyabhijna
   - introduction
