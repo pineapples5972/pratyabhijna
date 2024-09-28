@@ -2,8 +2,8 @@
 title: spanda
 tags:
  - spanda
+ - introduction
  - articles
- - Introduction
 ---
 ]■[ "Spanda System." ]■[
 ⎯ The fourth system, which comprises the Trika philosophy, is called the Spanda system. The word spanda means “movement.”
