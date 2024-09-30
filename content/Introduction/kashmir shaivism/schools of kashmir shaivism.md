@@ -1,5 +1,5 @@
 ---
-titlemir shaivism: The Schools of Kashmir Shaivism
+title: schools of kashmir shaivism
 date: 2024-09-30
 tags:
   - introduction
