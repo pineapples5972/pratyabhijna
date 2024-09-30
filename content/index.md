@@ -37,5 +37,5 @@ We are deeply devoted to Trika philosophical insights with common interests ofte
 - and Mystikism.
 
  ### Latest Articles
- - [[schools of kashmir shaivism]]
+ - [[external discipline]]
  - [[purity of mind & internal posture]]
