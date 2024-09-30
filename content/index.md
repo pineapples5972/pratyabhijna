@@ -38,4 +38,4 @@ We are deeply devoted to Trika philosophical insights with common interests ofte
 
  ### Latest Articles
  - [[schools of kashmir shaivism]]
- - [[External Discipline]]
+ - [[purity of mind & internal posture]]
