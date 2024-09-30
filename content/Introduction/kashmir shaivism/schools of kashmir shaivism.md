@@ -14,5 +14,5 @@ tags:
 ![[tresdiosas.jpg]]
 # "THE TRIKA PHILOSOPHY IS MEANT FOR ANY HUMAN BEING WITHOUT THE RESTRICTION OF CASTE, CREED, OR COLOR. ITS PURPOSE IS TO ENABLE YOU TO RISE FROM INDIVIDUALITY TO UNIVERSALITY."
 ### - Swāmi Lakṣamaṇa Jū
-![[1200px-Trident_Yantra_of_Parama_Siva.svg.png]]
+![[1200px-Trident_Yantra_of_Parama_Sivaf.jpg]]
 The Trika System is comprised of four sub-schools; the [[pratyabhijñā]] school, the [[kula]] school, the [[krama]] school, and the [[spanda]] school. These four systems, which form the one thought of the Trika system, all accept and are based on the same scriptures (Āgama-s). These scriptures form the ninety-two Āgama-s of Shaivism. The monistic Bhairava Śāstra-s are supreme (parā) and are sixty-four in number; the mono-dualistic Rudra Śāstra-s are medium (parāpara) and are eighteen in number; and the dualistic Śiva Śāstra-s are inferior (aparā) and are ten in number.
