@@ -37,5 +37,5 @@ We are deeply devoted to Trika philosophical insights with common interests ofte
 - and Mystikism.
 
  ### Latest Articles
- - [[The Birth of the Tantras in Trika]]
+ - [[schools of kashmir shaivism]]
  - [[External Discipline]]
