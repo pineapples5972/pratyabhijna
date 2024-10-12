@@ -3,4 +3,9 @@ updates:
   - package-ecosystem: "npm"
     directory: "/"
     schedule:
-      interval: "daily"
+      interval: "weekly"
+    groups:
+      production-dependencies:
+        applies-to: "version-updates"
+        patterns:
+          - "*"
